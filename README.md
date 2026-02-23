@@ -11,4 +11,7 @@ To use streamlit app, first make sure to create a separate a python or conda env
 
 ## System Architecture
 
-The TA Guardian Agent utilizes a lightweight, locally-stored Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers based strictly on course materials.
+The TA Guardian Agent utilizes a lightweight, locally-stored Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers based on course materials.
+
+
+<img width="822" height="482" alt="Screen Shot 2026-02-23 at 1 32 37 PM" src="https://github.com/user-attachments/assets/019ac197-c509-4a68-a512-841d3eb14e84" />
